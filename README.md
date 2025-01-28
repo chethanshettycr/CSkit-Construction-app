@@ -19,11 +19,11 @@ CS-Kit is a modern web application built using **Next.js** and **TypeScript**, l
 ### Backend Development
 - API Routes: To handle data for different user roles (Consumer, Seller, Admin).
 - Authentication: Secure login and role-based access control.
-## Tools and Platforms
+### Tools and Platforms
 - Git & GitHub: For version control and collaboration.
 - Vercel: For deploying and hosting the application.
 - Node.js & npm: For managing dependencies and running scripts.
-## Other Skills
+### Other Skills
 - Problem Solving: Designing multi-role functionality.
 - Clean Code: Writing modular and reusable code.
 ## Prerequisites
