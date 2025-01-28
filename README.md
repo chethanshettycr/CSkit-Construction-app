@@ -28,7 +28,7 @@ CS-Kit is a modern web application built using **Next.js** and **TypeScript**, l
 - Node.js & npm: For managing dependencies and running scripts.
 ### Other Skills
 - Problem Solving: Designing multi-role functionality.
-- Clean Code: Writing modular and reusable code.
+- Clean Code: Writing modular and used Chatgpt to make my code look organised.
 ## Prerequisites
 To run this project locally, ensure you have the following installed:
 - **Node.js** (v16 or higher) and npm (v8 or higher)
