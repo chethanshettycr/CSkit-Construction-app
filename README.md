@@ -90,9 +90,6 @@ Contributions are welcome! To contribute:
 4. Push to the branch: `git push origin feature-name`.
 5. Open a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
-For questions or support, reach out at [your-email@example.com].
+For questions or support, reach out at chethanshetty1117@gmail.com.
 
