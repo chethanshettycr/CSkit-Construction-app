@@ -10,6 +10,22 @@ CS-Kit is a modern web application built using **Next.js** and **TypeScript**, l
 - Authentication flows for login and profile management.
 - Shopping cart and order management.
 
+## Skills Used in This Project
+### Frontend Development
+- Next.js: For building pages and server-side rendering.
+- React: For creating reusable and dynamic UI components.
+- TypeScript: For writing reliable and type-safe code.
+- Tailwind CSS: For fast and responsive styling.
+### Backend Development
+- API Routes: To handle data for different user roles (Consumer, Seller, Admin).
+- Authentication: Secure login and role-based access control.
+## Tools and Platforms
+- Git & GitHub: For version control and collaboration.
+- Vercel: For deploying and hosting the application.
+- Node.js & npm: For managing dependencies and running scripts.
+## Other Skills
+- Problem Solving: Designing multi-role functionality.
+- Clean Code: Writing modular and reusable code.
 ## Prerequisites
 To run this project locally, ensure you have the following installed:
 - **Node.js** (v16 or higher) and npm (v8 or higher)
