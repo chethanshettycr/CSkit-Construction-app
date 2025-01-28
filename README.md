@@ -1,5 +1,5 @@
 <h1 align="center">CSkit Construction app</h1>
-![Cskit](https://github.com/user-attachments/assets/7f941536-1a3c-43da-99e9-842f4d00a523)
+<img align="center" alt="Preview" src="https://github.com/user-attachments/assets/7f941536-1a3c-43da-99e9-842f4d00a523">
 
 ## Overview
 CS-Kit is a modern web application built using **Next.js** and **TypeScript**, leveraging **Tailwind CSS** for styling and reusable UI components. It includes various pages and functionalities tailored for different user roles such as consumer, seller, and admin.
