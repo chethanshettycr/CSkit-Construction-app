@@ -1,7 +1,9 @@
- # Project Name: CSkit-Construction-app
+# Project Name: CSkit-Construction-app
 
 ## Overview
 CS-Kit is a modern web application built using **Next.js** and **TypeScript**, leveraging **Tailwind CSS** for styling and reusable UI components. It includes various pages and functionalities tailored for different user roles such as consumer, seller, and admin.
+#### View Website - https://xiqsel7ylxshvgwi.vercel.app/ 
+#### Demo Video - https://drive.google.com/file/d/1jEb_-qFvPUibGSQMdu1nQ3kp09cB1NRW/view?usp=drivesdk 
 
 ## Features
 - Multi-role support: Consumer, Seller, and Admin.
